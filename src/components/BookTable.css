@@ -1,0 +1,65 @@
+
+.book-table-container {
+    width: 100%;
+  }
+  
+  .book-table-header {
+    background-color: #f5f5f5;
+  }
+  
+  
+  .book-table-cell {
+    padding: 10px;
+  }
+  
+
+  .book-table-row {
+    cursor: pointer;
+  }
+  
+  
+  .book-search-input {
+    margin-bottom: 10px;
+  }
+  
+ 
+  .book-pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .book-download-btn {
+    margin-left: 10px;
+  }
+  
+ 
+  .book-csv-link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  
+  .book-table-container {
+    overflow: hidden;
+  }
+  
+ 
+  .book-table {
+    width: 100%;
+  }
+  
+ 
+  .book-sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #fff;
+  }
+  
+  
+  .book-table-row:hover {
+    background-color: #f0f0f0;
+  }
+  
